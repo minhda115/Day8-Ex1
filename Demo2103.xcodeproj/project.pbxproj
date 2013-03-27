@@ -18,6 +18,7 @@
 		E0D4DA0C16FB450A00CBD49C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E0D4DA0B16FB450A00CBD49C /* Default-568h@2x.png */; };
 		E0D4DA0F16FB450A00CBD49C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E0D4DA0E16FB450A00CBD49C /* ViewController.m */; };
 		E0D4DA1216FB450A00CBD49C /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0D4DA1016FB450A00CBD49C /* ViewController.xib */; };
+		E0FAB7C116FF3D270038F2B6 /* Picture.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E0FAB7C016FF3D270038F2B6 /* Picture.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		E0D4DA0D16FB450A00CBD49C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E0D4DA0E16FB450A00CBD49C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E0D4DA1116FB450A00CBD49C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		E0FAB7C016FF3D270038F2B6 /* Picture.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Picture.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		E0D4D9FB16FB450A00CBD49C /* Demo2103 */ = {
 			isa = PBXGroup;
 			children = (
+				E0FAB7C016FF3D270038F2B6 /* Picture.JPG */,
 				E0D4DA0416FB450A00CBD49C /* AppDelegate.h */,
 				E0D4DA0516FB450A00CBD49C /* AppDelegate.m */,
 				E0D4DA0D16FB450A00CBD49C /* ViewController.h */,
@@ -163,6 +166,7 @@
 				E0D4DA0A16FB450A00CBD49C /* Default@2x.png in Resources */,
 				E0D4DA0C16FB450A00CBD49C /* Default-568h@2x.png in Resources */,
 				E0D4DA1216FB450A00CBD49C /* ViewController.xib in Resources */,
+				E0FAB7C116FF3D270038F2B6 /* Picture.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +302,7 @@
 				E0D4DA1716FB450A00CBD49C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

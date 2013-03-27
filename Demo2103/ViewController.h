@@ -9,5 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+    IBOutlet UISwitch *mySwitch;
+}
+- (IBAction)switchAge:(id)sender;
 
 @end
